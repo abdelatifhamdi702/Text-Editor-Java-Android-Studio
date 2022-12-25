@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Words</string>
+    <string name="welcome_to_algeria_n">Welcome to algeria\n مرحبا بكم في الجزائر</string>
+    <string name="size">Size</string>
+</resources>
